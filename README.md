@@ -6,10 +6,10 @@
 
 I'm a passionate **QA Software Engineer** with experience in **Cypress and Playwright**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🌱 Currently learning: **(WIP)**
+- 🔭 Working on: **(WIP)**
 - 🌍 Languages: **JavaScript/TypeScript, English, Spanish (Native)**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 📫 How to reach me: **(WIP)**
 
 ## My Skills 🧠
 
