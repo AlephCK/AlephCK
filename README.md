@@ -38,9 +38,9 @@ I'm a passionate **QA Software Engineer** with experience in **Cypress and Playw
 
 **Playwright Demo Challenge** is a **E2E and API Test Automation Demo Project** built with **Playwright and TypeScript in the PageObject Model Design Pattern, and CircleCI as the CI provider**. This project demonstrates my ability to **automate E2E and API tests using a new test framework and CI provider**. You can check out the repository [here](https://github.com/AlephCK/playwright-demo-challenge).
 
-### [Automation Challenge V3 (Cypress)](https://github.com/AlephCK/AutomationChallengeV3))
+### [Cypress Automation Challenge V3](https://github.com/AlephCK/AutomationChallengeV3)
 
-**[Automation Challenge V3 (Cypress]** is a **E2E Test Automation Demo Project** built with **Cypress and JavaScript using the Screenplay Design Pattern, with Cypress Cloud integration**. This project showcases my skills in **learning new design patterns and integrations to improve the QA Workflow**. You can check out the repository [here](https://github.com/AlephCK/AutomationChallengeV3).
+**[Cypress Automation Challenge V3]** is a **E2E Test Automation Demo Project** built with **Cypress and JavaScript using the Screenplay Design Pattern, with Cypress Cloud integration**. This project showcases my skills in **learning new design patterns and integrations to improve the QA Workflow**. You can check out the repository [here](https://github.com/AlephCK/AutomationChallengeV3).
 
 ## Get in Touch 📬
 
