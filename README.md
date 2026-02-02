@@ -40,7 +40,7 @@ I'm a passionate **QA Software Engineer** with experience in **Cypress and Playw
 
 ### [Automation Challenge V3 (Cypress)](https://github.com/AlephCK/AutomationChallengeV3))
 
-**[Automation Challenge V3 (Cypress)]** is a **E2E Test Automation Demo Project** built with **Cypress and JavaScript using the Screenplay Design Pattern, with Cypress Cloud integration**. This project showcases my skills in **learning new design patterns and integrations to improve the QA Workflow**. You can check out the repository [here](https://github.com/AlephCK/AutomationChallengeV3).
+**[Automation Challenge V3 (Cypress]** is a **E2E Test Automation Demo Project** built with **Cypress and JavaScript using the Screenplay Design Pattern, with Cypress Cloud integration**. This project showcases my skills in **learning new design patterns and integrations to improve the QA Workflow**. You can check out the repository [here](https://github.com/AlephCK/AutomationChallengeV3).
 
 ## Get in Touch 📬
 
