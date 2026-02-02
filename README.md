@@ -1,7 +1,5 @@
 # Hi there, I'm Winston Aleph Cruz Kasse! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate **QA Software Engineer** with experience in **Cypress and Playwright**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
