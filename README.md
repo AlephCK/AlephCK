@@ -45,6 +45,6 @@ I'm a passionate **QA Software Engineer** with experience in **Cypress and Playw
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/alephck/?original_referer=https://github.com/AlephCK)
+- **[LinkedIn](https://www.linkedin.com/in/alephck/?original_referer=https://github.com/AlephCK)**
 
 
