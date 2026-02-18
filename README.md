@@ -28,6 +28,9 @@ I'm a passionate **QA Software Engineer** with experience in **Cypress and Playw
 
 ## Featured Projects 💻
 
+### [Spec-Driven Development (Kiro Workflow) Demo](https://github.com/AlephCK/Antigravity-SDD-Demo/tree/main)
+**Spec-Driven Development (Kiro Workflow) Demo** This repository is set up for Spec-Driven Development using the Kiro workflow, compatible with Antigravity/Gemini. You can check out the repository [here](https://github.com/AlephCK/Antigravity-SDD-Demo/tree/main).
+
 ### [Cypress Demo Challenge](https://github.com/AlephCK/cypress-demo-challenge)
 
 **Cypress Demo Challenge** is a **E2E and API Test Automation Demo Project** built with **Cypress and JavaScript in the PageObject Model Design Pattern**. This project demonstrates my ability to **automate E2E tests and API tests**. You can check out the repository [here](https://github.com/AlephCK/cypress-demo-challenge).
